@@ -29,3 +29,4 @@ simulation/qsim/transcript
 # *.qpf        — project file
 # *.qsf        — settings file
 # *.bsf        — block symbol files
+.DS_Store
