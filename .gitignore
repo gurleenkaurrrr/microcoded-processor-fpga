@@ -1,1 +1,31 @@
-.DS_Store
+# Intel Quartus Prime generated files — do not commit
+db/
+incremental_db/
+output_files/*.sof
+output_files/*.pof
+output_files/*.jdi
+output_files/*.pin
+output_files/*.rpt
+output_files/*.summary
+output_files/*.smsg
+output_files/*.done
+output_files/*.flow.rpt
+simulation/modelsim/
+simulation/qsim/work/
+simulation/qsim/*.vcd
+simulation/qsim/*.wlf
+simulation/qsim/transcript
+
+# Quartus backup files
+*.vhd.bak
+*.bdf.bak
+*.qws
+*.temp
+
+# Keep these:
+# *.vhd        — source files
+# *.bdf        — block diagrams
+# *.vwf        — simulation waveforms
+# *.qpf        — project file
+# *.qsf        — settings file
+# *.bsf        — block symbol files
